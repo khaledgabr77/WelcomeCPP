@@ -12,6 +12,6 @@ int main(){
     istringstream my_stream(a);
 
     int n;
-    my_stream >> n++;
+    my_stream >> n
     cout << n << "\n";
 }
